@@ -6,6 +6,14 @@ It is designed for people who want a simple desktop view of Codex usage without 
 
 > This project is **not** an official Codex API client.
 
+## Screenshots
+
+### Dark Mode (English)
+![Dark Mode English](assets/screenshots/widget-dark-en-nosettings.png)
+
+### Light Mode with Settings (Chinese)
+![Light Mode Chinese Settings](assets/screenshots/widget-light-cn-settings.png)
+
 ## Features
 
 - Floating Windows desktop widget
